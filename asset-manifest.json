@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MDFaiyuWelders.git/static/css/main.c8cb3b6e.css",
+    "main.js": "/MDFaiyuWelders.git/static/js/main.76db55e6.js",
+    "static/js/453.77d8e7ec.chunk.js": "/MDFaiyuWelders.git/static/js/453.77d8e7ec.chunk.js",
+    "index.html": "/MDFaiyuWelders.git/index.html",
+    "main.c8cb3b6e.css.map": "/MDFaiyuWelders.git/static/css/main.c8cb3b6e.css.map",
+    "main.76db55e6.js.map": "/MDFaiyuWelders.git/static/js/main.76db55e6.js.map",
+    "453.77d8e7ec.chunk.js.map": "/MDFaiyuWelders.git/static/js/453.77d8e7ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8cb3b6e.css",
+    "static/js/main.76db55e6.js"
+  ]
+}
